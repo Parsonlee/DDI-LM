@@ -2,6 +2,8 @@
 ddi-lm-inference.ipynb
 results.ipynb
 task1.py
+*.csv
+*.npy
 
 Results/
 original/
